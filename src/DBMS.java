@@ -80,7 +80,7 @@ public class DBMS {
 	}
 
 	/**
-	 * receives table-information
+	 * receives the table-information
 	 */
 	private void getTableInformation(String tn) throws SQLException {
 		tableHeader = dbcon.returnTableHeader(tn, tableHeader);
