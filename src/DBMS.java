@@ -93,7 +93,7 @@ public class DBMS {
 	private void dbInfo() {
 		System.out.println("*********************************");
 		System.out.println("*         Terminal DBMS         *");
-		System.out.println("*        Martin Kiessling        *");
+		System.out.println("*        Martin Kiessling       *");
 		System.out.println("*********************************");
 	}
 
