@@ -1,3 +1,4 @@
+package main;
 /*******************************************************************************
  * Copyright (c) 2012 Martin Kiessling
  * This source is subject to the BragiSoft Permissive License.
