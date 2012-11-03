@@ -1,7 +1,7 @@
 DBMS
 ======
 
-This is an terminal-based Databse-Management-System.
+This is a terminal-based Databse-Management-System.
 
 Manual
 --------
